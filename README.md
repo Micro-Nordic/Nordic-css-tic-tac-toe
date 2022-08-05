@@ -17,7 +17,8 @@
 
 This is a Nordic version of ["CSS only tic-tac-toe" by Zed Dash](https://codepen.io/z-/pen/LYPqaME).<br>
 You can use this as your desktop wallpaper, if you used wallpaper engine or any other live wallpaper software, or you can use [lively wallpaper](https://rocksdanister.github.io/lively/), it is free and open-source 😉<br>
-**[💠 see it in action](https://micro-nordic.github.io/Nordic-css-tic-tac-toe/)**
+**[💠 see it in action](https://micro-nordic.github.io/Nordic-css-tic-tac-toe/)**|
+--- |
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/TzoPeWE.png"> Utilization</h2>
 
