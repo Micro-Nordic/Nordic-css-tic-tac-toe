@@ -13,19 +13,19 @@
 
 </div>
 
-<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/9dexckH.png"> Description</h2>
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/9dexckH.png"> Description</h2>
 
 This is a Nordic version of ["CSS only tic-tac-toe" by Zed Dash](https://codepen.io/z-/pen/LYPqaME).<br>
 You can use this as your desktop wallpaper, if you used wallpaper engine or any other live wallpaper software, or you can use [lively wallpaper](https://rocksdanister.github.io/lively/), it is free and open-source 😉<br>
 **[💠 see it in action](https://micro-nordic.github.io/Nordic-css-tic-tac-toe/)**
 
-<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/TzoPeWE.png"> Utilization</h2>
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/TzoPeWE.png"> Utilization</h2>
 
 1. nothing here, just enjoy! 😉
 
 
   
-<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/89PM7QC.png"> Author</h2>
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/89PM7QC.png"> Author</h2>
 
 
 
@@ -37,11 +37,11 @@ You can use this as your desktop wallpaper, if you used wallpaper engine or any 
 
 [+ some awesome contributors](https://github.com/Micro-Nordic/Nordic-css-tic-tac-toe/graphs/contributors)
   
-<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/zaTDMta.png"> Show your support</h2>
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/zaTDMta.png"> Show your support</h2>
 
 Give a ⭐️ if you like this port!
   
-<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/oUWxDRu.png"> License</h2>
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/oUWxDRu.png"> License</h2>
 
 Copyright © 2022 [Abod1960](https://github.com/Abod1960)<br>
 This project is licensed under the [MIT](https://github.com/Micro-Nordic/Nordic-css-tic-tac-toe/blob/main/LICENSE) license.<br>
